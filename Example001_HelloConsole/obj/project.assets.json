@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diananorva/Desktop/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+      "projectUniqueName": "/Users/diananorva/Desktop/INTITLED/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
       "projectName": "Example001_HelloConsole",
-      "projectPath": "/Users/diananorva/Desktop/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+      "projectPath": "/Users/diananorva/Desktop/INTITLED/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
       "packagesPath": "/Users/diananorva/.nuget/packages/",
-      "outputPath": "/Users/diananorva/Desktop/Examples/Example001_HelloConsole/obj/",
+      "outputPath": "/Users/diananorva/Desktop/INTITLED/Examples/Example001_HelloConsole/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/diananorva/.nuget/NuGet/NuGet.Config"
