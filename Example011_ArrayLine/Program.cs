@@ -1,4 +1,4 @@
-﻿void FillArray(int [] collection)
+﻿/*void FillArray(int [] collection)
 {
     int length = collection.Length;
     int index = 0;
@@ -49,3 +49,23 @@ Console.WriteLine();
 
 int pos = IndexOf(array, 444);
 Console.WriteLine(pos);
+*/
+
+
+static void Main(string[] args)
+{
+    while (true)
+    {
+        Console.WriteLine ("Введите трехначное число");
+        string num = Convert.ReadLine();
+         
+        if (stringNum.Length < 3)
+        {
+            Console.WriteLine("третьей цифры нет");
+        }
+        else
+        {
+            Console.WriteLine("третья цфра этого числа: +stringNum[2]");
+        }
+    }
+}
