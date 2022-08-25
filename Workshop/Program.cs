@@ -10,7 +10,7 @@
 // [10, 11, 12, 13, 14] -> 5
 
 
-
+/*
 int[] array = new int[123];
 int count=0;
 
@@ -30,6 +30,7 @@ Console.WriteLine();
 Console.Write("Массив содержит следующее количество элементов из отрезка [10,99] - ");
 Console.Write(count);
 
+*/
 
 
 // Задача 37: Найдите произведение пар чисел в одномерном массиве. 
@@ -39,7 +40,7 @@ Console.Write(count);
 // [1 2 3 4 5] -> 5 8 3
 
 // [6 7 3 6] -> 36 21
-/*
+
 int N = 10;
 int[] array = new int[N];
 
@@ -56,4 +57,3 @@ for (int i = 0; i < (array.Length + 1) % 2; i++)
         Console.Write(array[i] * array[j] + ",");
         j++;
 }
-*/
