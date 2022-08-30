@@ -6,3 +6,5 @@ static int Factorial(int n)
     return n * Factorial(n-1);
 }
 Console.WriteLine(Factorial(3));
+
+
